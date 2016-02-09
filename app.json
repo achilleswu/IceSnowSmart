@@ -1,0 +1,8 @@
+{
+  "name": "IceSnowSmart",
+  "description": "A AI robot",
+  "repository": "https://github.com/achilleswu/IceSnowSmart",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
